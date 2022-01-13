@@ -1,96 +1,73 @@
-### Hi there, I'm Saugat - aka [Saugataga][Discord] 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saugat</h1>
+<h3 align="center">I'm a passionate Developer Learning Lot's of Stuffs.</h3>
 
 
-## I'm a Developer, and Student!!
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Discord Bot](https://soon!/)**
+
+- 🌱 I’m currently learning **Discord.js and Data Handling**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Github Repo](https://github.com/Saugataga)**
+
+- 📫 How to reach me **Saugataga#5482**
+
+- ⚡ Fun fact **I play games and do Graphics Design**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>   
+</p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+<p align="center">
+    <a href="http://github-readme-streak-stats.herokuapp.com?user=Saugataga&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Saugataga Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Saugataga&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Saugataga/github-readme-stats"><img alt="Saugataga 's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Saugataga&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Saugataga/github-readme-stats"><img alt="Saugataga Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saugataga&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Create Open Source projects
-- ⚡ Fun fact: I love to Play Minecraft And Do Some Stuffs
+<br/>
+<br/>
 
-### Spotify Playing 🎧
+<a href="https://github.com/Saugataga/github-readme-activity-graph"><img alt="Saugataga Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Saugataga&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-(https://open.spotify.com/user/SaugatagaYt)
+<br/>
+<br/>
 
-### Connect with me:
+## Connect with me:
+<p align="left">
 
-[<img align="left" alt="Saugataga | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Saugataga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href = "https://disqus.com/by/saugataga/?"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-disqus-social-integration-social-networking-user-profiles-spam-and-moderation-tools-service-logo-color-tal-revivo.png"/></a>
+<a href = "Saugataga#5482"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png"/></a>
 
-<br />
+</p>
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [STACKr News Weekly: Top Paying Tech Jobs in 2022, Visual Studio Code 2022, Code a 2D Game](https://www.youtube.com/watch?v=fnvYfRcfRIU)
-- [10 Life-Saving JavaScript One-Liners 🔥 CODE LIKE A PRO 2022](https://www.youtube.com/watch?v=tfdD9y6AMiE)
-- [How To List &amp; Reveal An ENTIRE NFT Collection &lpar;10,000+&rpar; Without Coding Knowledge on OpenSea](https://www.youtube.com/watch?v=Iy1n_LxUwZs)
-- [STACKr News Weekly: Quit Google, GoLang Course, Rewind 2021: Coding Edition](https://www.youtube.com/watch?v=KBSRZh8HQ4M)
-- [Visual Studio Code 2022 | Web Dev Setup | Top Extensions, Themes, Settings, Tips &amp; Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](SOON!)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-SOON!
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](Soon!)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Saugataga/spotify-now-playing/pull/1) in [Saugataga/spotify-now-playing](https://github.com/Saugataga/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/Saugataga/spotify-now-playing/issues/1) in [Saugataga/spotify-now-playing](https://github.com/Saugataga/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/Saugataga/free-developer-resources/issues/8) in [Saugataga/free-developer-resources](https://github.com/Saugataga/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/Saugataga/free-developer-resources/issues/8) in [Saugataga/free-developer-resources](https://github.com/Saugataga/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/Saugataga/free-developer-resources/issues/7) in [Saugataga/free-developer-resources](https://github.com/Saugataga/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Saugataga's GitHub Stats" src="https://github-readme-stats.Saugataga.vercel.app/api?username=Saugataga&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https:soon!
-[youtube]: Soon!
-[instagram]: Soon!
-[linkedin]: Soon!
-[webdevplaylist]: Soon!
-[jsplaylist]: soon!
-[cssplaylist]: soon!
-[reactplaylist]: Soon!
+## ❤ Views and Followers
+<a href="https://github.com/Saugataga/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Saugataga">
+</a>
+<a href="https://github.com/Saugataga?tab=followers"><img src="https://img.shields.io/github/followers/Saugataga?label=Followers&style=social" alt="GitHub Badge"></a>
