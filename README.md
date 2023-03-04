@@ -23,6 +23,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saugataga&icon=7&color=11)](https://visitcount.itsvg.in)
+## ❤ Views and Followers
+<a href="https://github.com/Saugataga/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Saugataga">
+</a>
+<a href="https://github.com/Saugataga?tab=followers"><img src="https://img.shields.io/github/followers/Saugataga?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
