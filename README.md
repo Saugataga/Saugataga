@@ -3,9 +3,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Saugat</h1>
 🔭 I’m currently working on a secret project. >.<<br>👯 I’m looking to collaborate on graphics work, web works.<br>🤝 I’m looking for help with Java.<br>🌱 I’m currently learning C,Java, GFX.<br>💬 Ask me about GFX, Web development.<br>⚡ Fun fact I think you are cool!
-
 <br>
-[![](https://visitcount.itsvg.in/api?id=Saugataga&icon=7&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Saugataga&icon=7&color=11)](https://visitcount.itsvg.in)]
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Y6zVYHVWWB) 
